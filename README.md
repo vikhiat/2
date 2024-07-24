@@ -9,5 +9,5 @@
 
 
 This is my Excel Certificate
-![image](https://github.com/user-attachments/assets/460cdc9a-cef1-4d96-b91c-ee421e3df20b width("50%") )
+![image](https://github.com/user-attachments/assets/460cdc9a-cef1-4d96-b91c-ee421e3df20b)
 
